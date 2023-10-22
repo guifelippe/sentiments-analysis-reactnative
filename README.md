@@ -50,3 +50,7 @@ Before you begin, make sure you meet the following requirements:
     expo start
 
 2. Use the app on your mobile device or emulator to enter messages and check associated sentiments.
+
+## License
+
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for more information.
