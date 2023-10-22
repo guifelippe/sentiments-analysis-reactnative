@@ -1,5 +1,11 @@
 # Sentiment Analysis App
 
+![GitHub repo size](https://img.shields.io/github/repo-size/guifelippe/sentiments-analysis-reactnative?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/guifelippe/sentiments-analysis-reactnative?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/guifelippe/sentiments-analysis-reactnative?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/guifelippe/sentiments-analysis-reactnative?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/guifelippe/sentiments-analysis-reactnative?style=for-the-badge)
+
 The Sentiment Analysis App is a React Native application that allows users to input a message and check the sentiment associated with that message.
 
 <img src="./assets/screen.png" alt="Print Screen"/>
@@ -25,12 +31,12 @@ Before you begin, make sure you meet the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/guifelippe/sentiment-analysis-reactnative.git
+    git clone https://github.com/guifelippe/sentiments-analysis-reactnative.git
 
 2. Access the project directory:
 
     ```bash
-    cd sentiment-analysis-reactnative
+    cd sentiments-analysis-reactnative
 
 3. Create a env.js file in the project root and add your MeaningCloud API key:
 
